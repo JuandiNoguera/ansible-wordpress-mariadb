@@ -1,0 +1,4 @@
+wordpress_bd: wordpress_bd
+wordpress_user: userwp
+wordpress_pass: asdasdasdasd
+wordpress_host: 192.168.122.100
